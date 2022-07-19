@@ -1,6 +1,6 @@
 # rsschool-cv
 ## Aliaksei Davydau
-![image](/islands-300.jpg "photo")
+![image](https://avatars.mds.yandex.net/get-yapic/51381/SG3MajwPE6F0cIE6LLudy6u4pw-1/islands-300 "photo")
 ### Front-end Developer student
 #### contacts:
 * Location: Homiel, Belarus
