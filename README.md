@@ -1,1 +1,1 @@
-[# rsschool-cv](https://Lexjkeee.github.io/rsschool-cv/cv)
+https://github.com/Lexjkeee/rsschool-cv/blob/gh-pages/cv.md
